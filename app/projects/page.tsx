@@ -13,13 +13,13 @@ const projects: Project[] = [
 
     {
         title: "Certificación de Excel",
-        description: "Certificación profesional en Microsoft Excel, enfocada en automatización de tareas, análisis de datos y creación de dashboards interactivos.",
+        description: "Certificación en Microsoft Excel, enfocada en manejo de tablas y manejo de datos.",
         link: "#",
         image: "/projects/excel.png",
     },
     {
         title: "Certificación de Python",
-        description: "Curso avanzado de Python centrado en la resolución de problemas reales, análisis de datos y fundamentos de desarrollo web.",
+        description: "Curso básico de Python centrado en el análisis de datos y fundamentos de desarrollo web.",
         link: "#",
         image: "/projects/python.png",
     },
@@ -28,6 +28,18 @@ const projects: Project[] = [
         description: "Proyecto realizado para hackton en el Centro Empresarial ¡Supérate! Hilasal.",
         link: "#",
         image: "/projects/files/FashionHouses.png",
+    },
+    {
+        title: "Study Up",
+        description: "Proyecto realizado para la Expo de logros en el Centro Empresarial ¡Supérate! Hilasal.",
+        link: "#",
+        image: "/projects/files/StudyUp.png",
+    },
+    {
+        title: "IonSpark",
+        description: "Proyecto realizado para ExpoTech en el Centro Empresarial ¡Supérate! Hilasal.",
+        link: "#",
+        image: "/projects/files/IonSpark.png",
     },
 ];
 
