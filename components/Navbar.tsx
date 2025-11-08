@@ -8,8 +8,9 @@ export default function Navbar() {
         <Link href="/">Inicio</Link>
         <Link href="/about">Sobre mí</Link>
         <Link href="/projects">Proyectos</Link>
-        <Link href="/contact">Contacto</Link>
         <Link href="/certificaciones">Certificaciones</Link>
+        <Link href="/contact">Contacto</Link>
+        
       </div>
     </nav>
   );
